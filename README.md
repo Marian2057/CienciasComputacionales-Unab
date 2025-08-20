@@ -50,7 +50,4 @@ Este trabajo demuestra cómo el **análisis de datos** puede:
 En definitiva, el proyecto ilustra el valor del análisis de datos en la vida real y cómo puede aportar **información útil para el negocio gastronómico**.  
 
 ---
-
-## 👩‍💻 Autores  
-
-- **Marianela Pi** – Ciencia de Datos y Machine Learning  
+Ciencia de Datos y Machine Learning  
